@@ -1,0 +1,33 @@
+{
+  "name": "react-facebook",
+  "version": "1.0.0",
+  "description": "A basic React.js challenge to create a Facebook like application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasbass/reactfacebookstyle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diasbass/reactfacebookstyle/issues"
+  },
+  "homepage": "https://github.com/diasbass/reactfacebookstyle#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.7.1"
+  }
+}
