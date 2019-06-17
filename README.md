@@ -4,5 +4,5 @@
 
 **To run**
 
-<p>~ npm Start</p>
+<p>~ npm start</p>
 <p>~ npm run dev</p>
