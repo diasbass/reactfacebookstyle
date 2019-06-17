@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Header = () => (
-  <header>
+  <header className="main-header">
     <h3>FakeBook</h3>
   </header>
 );

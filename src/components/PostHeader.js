@@ -2,9 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const PostHeader = ({ name, avatar, time }) => (
-  <div className="post-header-container">
-    <img className="avatar" src={avatar} alt="avatar" />
-    <div className="data-container">
+  <div className="post-header--container">
+    <img className="post-header--container--avatar" src={avatar} alt="avatar" />
+    <div className="post-header--container--data-container">
       <strong>{name}</strong>
       <span>{time}</span>
     </div>
